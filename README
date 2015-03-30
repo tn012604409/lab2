@@ -1,0 +1,6 @@
+F74036116@2015cpp:~/lab2$ make
+g++ -c lab2.cpp
+g++ -c BMI.cpp
+g++ -o lab2 lab2.o BMI.o
+F74036116@2015cpp:~/lab2$ ./lab2
+
